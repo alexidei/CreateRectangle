@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/create_rectangle" >
+        <file>icons/oneplace.png</file>
+    </qresource>
+</RCC>
